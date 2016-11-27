@@ -1,0 +1,22 @@
+{
+  "extends": "standard",
+  "env"     : {
+    "browser" : true,
+    "node": true,
+    "mocha": true,
+    "es6": true
+  },
+  "globals" : {
+    "__DEV__"      : false,
+    "__PROD__"     : false,
+    "__DEBUG__"    : false,
+    "__DEBUG_NEW_WINDOW__" : false,
+    "__BASENAME__" : false
+  },
+  "parserOptions": {
+    "ecmaVersion": 6
+  },
+  "rules": {
+
+  }
+}

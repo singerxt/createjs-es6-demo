@@ -1,0 +1,9 @@
+node_modules/
+dist/
+npm-debug.log*
+selenium-debug.log
+test/npm-debug.log
+test/selenium-debug.log
+test/reports/
+test/screenshots/
+.idea
